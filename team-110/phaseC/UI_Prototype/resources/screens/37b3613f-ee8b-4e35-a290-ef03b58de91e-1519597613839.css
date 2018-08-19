@@ -1,0 +1,156 @@
+#s-37b3613f-ee8b-4e35-a290-ef03b58de91e > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-37b3613f-ee8b-4e35-a290-ef03b58de91e > #alignmentBox {
+  position: relative;
+  margin: 0 auto;
+  max-width: 1024px;
+  max-height: 768px;
+}
+#s-37b3613f-ee8b-4e35-a290-ef03b58de91e #s-Rectangle_1 {
+  position: absolute;
+  width: 756px;
+  height: 600px;
+  background-color: #434343;
+  background-image: none;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  display: none;
+  line-height: 18px;
+  font-size: 10.0pt;
+  font-family: 'Arial',Arial;
+}
+#s-37b3613f-ee8b-4e35-a290-ef03b58de91e #s-Rectangle_1 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-37b3613f-ee8b-4e35-a290-ef03b58de91e #s-Rectangle_1 span {
+  color: #434343;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-37b3613f-ee8b-4e35-a290-ef03b58de91e #s-Rectangle_1 span#rtr-s-Rectangle_1_0 {
+  color: #434343;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-37b3613f-ee8b-4e35-a290-ef03b58de91e #s-Text_1 {
+  position: absolute;
+  width: auto;
+  height: auto;
+  background-color: transparent;
+  background-image: none;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  font-size: 20.0pt;
+  font-family: 'Lucida Bright',Arial;
+}
+#s-37b3613f-ee8b-4e35-a290-ef03b58de91e #s-Text_1 .valign {
+  vertical-align: middle;
+  text-align: left;
+}
+#s-37b3613f-ee8b-4e35-a290-ef03b58de91e #s-Text_1 span {
+  color: #FFFD4B;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Lucida Bright',Arial;
+  font-size: 20.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-37b3613f-ee8b-4e35-a290-ef03b58de91e #s-Text_1 span#rtr-s-Text_1_0 {
+  color: #FFFD4B;
+  text-align: left;
+  text-decoration: none;
+  font-family: 'Lucida Bright',Arial;
+  font-size: 20.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-37b3613f-ee8b-4e35-a290-ef03b58de91e #s-Button_10 {
+  position: absolute;
+  width: 108px;
+  height: 23px;
+  background-color: #FFFFFF;
+  background-image: none;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #CDCDCD;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #CDCDCD;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #CDCDCD;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #CDCDCD;
+  border-radius: 4px 4px 4px 4px;
+  padding-top: 2px;
+  padding-right: 2px;
+  padding-bottom: 2px;
+  padding-left: 2px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  text-shadow: none;
+  cursor: pointer;
+  font-size: 11.0pt;
+  font-family: 'Arial',Arial;
+}
+#s-37b3613f-ee8b-4e35-a290-ef03b58de91e #s-Button_10 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-37b3613f-ee8b-4e35-a290-ef03b58de91e #s-Button_10 span {
+  color: #030303;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 11.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-37b3613f-ee8b-4e35-a290-ef03b58de91e #s-Button_10 span#rtr-s-Button_10_0 {
+  color: #030303;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 11.0pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 0px;
+}
+#s-37b3613f-ee8b-4e35-a290-ef03b58de91e #s-Loading {
+  position: absolute;
+  width: 128px;
+  height: 128px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-37b3613f-ee8b-4e35-a290-ef03b58de91e > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

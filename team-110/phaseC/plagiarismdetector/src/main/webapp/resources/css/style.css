@@ -1,0 +1,15 @@
+    body
+{
+    background-color : #D3D3D3;
+}
+h1
+{
+    color : white;
+    text-align : center;
+    font-family: "SIMPSON";
+}
+form {
+    width: 300px;
+    margin:auto;
+}
+

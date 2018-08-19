@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "IOS9-Icons-Regular";
+  src: url("../fonts/IOS9-Icons-Regular.eot?#iefix") format("embedded-opentype"), 
+       url("../fonts/IOS9-Icons-Regular.woff") format("woff"), 
+       url("../fonts/IOS9-Icons-Regular.ttf")  format("truetype"),
+       url("../fonts/IOS9-Icons-Regular.svg#svgFontName") format("svg");
+}
+@font-face {
+  font-family: "Roboto-Light";
+  src: url("../fonts/Roboto-Light.eot?#iefix") format("embedded-opentype"), 
+       url("../fonts/Roboto-Light.woff") format("woff"), 
+       url("../fonts/Roboto-Light.ttf")  format("truetype"),
+       url("../fonts/Roboto-Light.svg#svgFontName") format("svg");
+}

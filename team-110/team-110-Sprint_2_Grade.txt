@@ -1,0 +1,40 @@
+CS5500 Managing Software Development
+
+------------------------------------------------
+Sprint 2 Group Grade Team 110:
+------------------------------------------------
+
+Functionality Expectations Achieved:
+-----------------------------------------------
+
+Comments on Functionality Expectations: 
+
+Strategies used: Code shift comparison; Min Modification(LCS on Tree); Similar Code.
+comparison is done using github
+UI Feedback:
+check password verification in register.
+check for null parameters.
+Display info if something is not as per the design
+Provide a spinner of a text while loading some page.
+
+
+Stretches Achieved:
+-----------------------------------------------
+
+(1) Stretch (small): employs more than one comparison strategy on demand. Hint: use the strategy pattern.; (2) Stretch (bigger): uses more than one comparison strategy and reports the results of each method.; (4) Stretch (even bigger): uses more than one comparison strategy and computes an overall score using a weighted polynomial function.; (2) Stretch: Performs the comparison against multiple submissions.; (2) Stretch: System throws a message (email SNMP trap etc.) when something bad happens.
+
+Comments: Strategy Pattern was not used. All the patterns are called by default. User takes a git repo and compares all files. Split up of weighted avg is not shown but 
+
+
+Environment Expectations: 
+-----------------------------------------------
+
+Comments: Team is unable to get smart commits has some config issues.
+
+------------------------------------------------
+Team GRADE: 96
+------------------------------------------------
+
+Extra Comments:  
+
+Grader: Praveen
